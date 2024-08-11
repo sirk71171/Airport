@@ -1,6 +1,6 @@
 html {
     font-family: "Roboto";
-    background-color: #1F2937;
+    background-color: #2B2D42;
 }
 
 body { 
@@ -11,7 +11,7 @@ body {
 .header {
     display: flex;
     flex-direction: row;
-    background-color: #1F2937;
+    background-color: #2B2D42;
 }
 
 #logo {
@@ -28,7 +28,7 @@ body {
 }
 h1 {
     font-size: 24px;
-    color: #F9FAF8;
+    color: #F7EC59;
 }
 ul {
     display: flex;
@@ -44,12 +44,12 @@ a {
 }
 a:link {
     font-size: 18px;
-    color: #E5E7EB;
+    color: #F7EC59;
 }
 .Hero {
     display: flex;
     flex-direction: row;
-    background-color: #1F2937;
+    background-color: #2B2D42;
     height: 382px;
 }
 .hero-left {
@@ -85,42 +85,34 @@ a:link {
 h2 {
     font-size: 48px;
     font-weight: bolder;
-    color: #F9FAF8;
+    color: #F7EC59;
     margin: 0;
     margin-bottom: 5px;
 }
 .phero {
     font-size: 18px;
-    color: #E5E7EB;
+    color: #F7EC59;
     margin: 0;
     margin-top: 0px;
     margin-bottom: 5px;
 }
 .sign-up {
-    background-color: #3882F6;
+    background-color: #92DCE5;
     border-radius: 8px;
     font-size: medium;
     font-weight: 700;
     border-width: 0;
-    color: #E5E7EB;
+    color: #2B2D42;
     padding-top: 7px;
     padding-bottom: 7px;
     padding-left: 28px;
     padding-right: 28px;
 }
-.sign-down {
-    background-color: #3882F6;
-    border-radius: 8px;
-    font-size: medium;
-    font-weight: 700;
-    border-width: 0;
-    color: #E5E7EB;
-}
 .info {
     display: flex;
     flex-direction: column;
     align-items: space-evenly;
-    background-color: #F9FAF8;
+    background-color: #FF66D8;
     height: 382px;
     padding-left: 10%;
 
@@ -152,6 +144,7 @@ h4 {
     display: flex;
     justify-content: center;
     width: 150px;
+    margin-left: 2px;
 }
 .quote {
     background-color: #E5E7EB;
